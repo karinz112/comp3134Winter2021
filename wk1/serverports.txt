@@ -1,0 +1,19 @@
+Karin Zigdon 101229316
+
+1) What is the definition of server port?
+
+At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. 
+A port is identified for each transport protocol and address combination by a 16-bit unsigned number, known as the port number.
+
+2) What is server port range?
+
+The port numbers are divided into three ranges: the Well Known Ports, the Registered Ports, and the Dynamic and/or Private Ports.
+The Well Known Ports are those from 0 through 1023.
+
+3) How many bits does number above represent?
+
+A port number is a 16-bit unsigned integer, thus 65535.
+
+4) State 10 common server ports
+
+80, 21, 20, 110, 443, 194, 123, 143, 25, 23
