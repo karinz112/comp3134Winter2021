@@ -1,0 +1,133 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# apt-get install nmap
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following additional packages will be installed:
+  libblas3 liblinear4 liblua5.3-0 lua-lpeg nmap-common
+Suggested packages:
+  liblinear-tools liblinear-dev ncat ndiff zenmap
+The following NEW packages will be installed:
+  libblas3 liblinear4 liblua5.3-0 lua-lpeg nmap nmap-common
+0 upgraded, 6 newly installed, 0 to remove and 100 not upgraded.
+Need to get 5669 kB of archives.
+After this operation, 26.8 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://mirrors.digitalocean.com/ubuntu focal/main amd64 libblas3 amd64 3.9.0-1build1 [142 kB]
+Get:2 http://mirrors.digitalocean.com/ubuntu focal/universe amd64 liblinear4 amd64 2.3.0+dfsg-3build1 [41.7 kB]
+Get:3 http://mirrors.digitalocean.com/ubuntu focal/main amd64 liblua5.3-0 amd64 5.3.3-1.1ubuntu2 [116 kB]
+Get:4 http://mirrors.digitalocean.com/ubuntu focal/universe amd64 lua-lpeg amd64 1.0.2-1 [31.4 kB]
+Get:5 http://mirrors.digitalocean.com/ubuntu focal/universe amd64 nmap-common all 7.80+dfsg1-2build1 [3676 kB]
+Get:6 http://mirrors.digitalocean.com/ubuntu focal/universe amd64 nmap amd64 7.80+dfsg1-2build1 [1662 kB]
+Fetched 5669 kB in 1s (8891 kB/s)
+Selecting previously unselected package libblas3:amd64.
+(Reading database ... 98228 files and directories currently installed.)
+Preparing to unpack .../0-libblas3_3.9.0-1build1_amd64.deb ...
+Unpacking libblas3:amd64 (3.9.0-1build1) ...
+Selecting previously unselected package liblinear4:amd64.
+Preparing to unpack .../1-liblinear4_2.3.0+dfsg-3build1_amd64.deb ...
+Unpacking liblinear4:amd64 (2.3.0+dfsg-3build1) ...
+Selecting previously unselected package liblua5.3-0:amd64.
+Preparing to unpack .../2-liblua5.3-0_5.3.3-1.1ubuntu2_amd64.deb ...
+Unpacking liblua5.3-0:amd64 (5.3.3-1.1ubuntu2) ...
+Selecting previously unselected package lua-lpeg:amd64.
+Preparing to unpack .../3-lua-lpeg_1.0.2-1_amd64.deb ...
+Unpacking lua-lpeg:amd64 (1.0.2-1) ...
+Selecting previously unselected package nmap-common.
+Preparing to unpack .../4-nmap-common_7.80+dfsg1-2build1_all.deb ...
+Unpacking nmap-common (7.80+dfsg1-2build1) ...
+Selecting previously unselected package nmap.
+Preparing to unpack .../5-nmap_7.80+dfsg1-2build1_amd64.deb ...
+Unpacking nmap (7.80+dfsg1-2build1) ...
+Setting up lua-lpeg:amd64 (1.0.2-1) ...
+Setting up libblas3:amd64 (3.9.0-1build1) ...
+update-alternatives: using /usr/lib/x86_64-linux-gnu/blas/libblas.so.3 to provide /usr/lib/x86_64-linux-gnu/libblas.so.3 (libblas.so.3-x86_64-linux-gnu) in auto mode
+Setting up nmap-common (7.80+dfsg1-2build1) ...
+Setting up liblua5.3-0:amd64 (5.3.3-1.1ubuntu2) ...
+Setting up liblinear4:amd64 (2.3.0+dfsg-3build1) ...
+Setting up nmap (7.80+dfsg1-2build1) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for libc-bin (2.31-0ubuntu9) ...
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap --version
+Nmap version 7.80 ( https://nmap.org )
+Platform: x86_64-pc-linux-gnu
+Compiled with: liblua-5.3.3 openssl-1.1.1d nmap-libssh2-1.8.2 libz-1.2.11 libpcre-8.39 libpcap-1.9.1 nmap-libdnet-1.12 ipv6
+Compiled without:
+Available nsock engines: epoll poll select
+
+----------------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap georgebrown.ca google.com facebook.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 05:59 UTC
+Nmap scan report for georgebrown.ca (99.79.139.11)
+Host is up (0.0089s latency).
+rDNS record for 99.79.139.11: ec2-99-79-139-11.ca-central-1.compute.amazonaws.com
+Not shown: 997 filtered ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for google.com (172.217.13.174)
+Host is up (0.0080s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4020:806::200e
+rDNS record for 172.217.13.174: yul03s04-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for facebook.com (31.13.80.36)
+Host is up (0.00056s latency).
+Other addresses for facebook.com (not scanned): 2a03:2880:f10e:83:face:b00c:0:25de
+rDNS record for 31.13.80.36: edge-star-mini-shv-01-yyz1.facebook.com
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+843/tcp  closed unknown
+5222/tcp closed xmpp-client
+
+Nmap done: 3 IP addresses (3 hosts up) scanned in 19.41 seconds
+
+----------------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 80 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 06:04 UTC
+Nmap scan report for google.com (172.217.13.174)
+Host is up (0.0083s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4020:806::200e
+rDNS record for 172.217.13.174: yul03s04-in-f14.1e100.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 11.14 seconds
+
+----------------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 60-120 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 06:05 UTC
+Nmap scan report for google.com (172.217.0.238)
+Host is up (0.0014s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:4020:806::200e
+rDNS record for 172.217.0.238: yyz10s03-in-f14.1e100.net
+Not shown: 60 filtered ports
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 12.64 seconds
+
+----------------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F amazon.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-23 06:06 UTC
+Nmap scan report for amazon.com (54.239.28.85)
+Host is up (0.025s latency).
+Other addresses for amazon.com (not scanned): 176.32.103.205 205.251.242.103
+Not shown: 98 closed ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 11.25 seconds
+

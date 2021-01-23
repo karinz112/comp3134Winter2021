@@ -1,0 +1,234 @@
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T08:39:04-0700
+Creation Date: 1997-09-15T00:00:00-0700
+Registrar Registration Expiration Date: 2028-09-13T00:00:00-0700
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+Name Server: ns3.google.com
+DNSSEC: unsigned
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2020-10-24T15:06:22Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2021-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: ariem@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: ariem@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: dgrunberg@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Domain Name: YOUTUBE.COM
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-01-14T10:36:28Z
+Creation Date: 2005-02-15T05:13:12Z
+Registry Expiry Date: 2022-02-15T05:13:12Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+DNSSEC: unsigned
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Domain Name: WIKIPEDIA.ORG
+Registry Domain ID: D51687756-LROR
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2020-10-15T22:29:57Z
+Creation Date: 2001-01-13T00:12:14Z
+Registry Expiry Date: 2023-01-13T00:12:14Z
+Registrar Registration Expiration Date:
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: Wikimedia Foundation, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Name Server: NS0.WIKIMEDIA.ORG
+Name Server: NS1.WIKIMEDIA.ORG
+Name Server: NS2.WIKIMEDIA.ORG
+DNSSEC: unsigned
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Domain Name: canada.ca
+Registry Domain ID: D124992-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: authenticweb.com
+Updated Date: 2020-09-17T02:18:16Z
+Creation Date: 2002-11-25T20:16:47Z
+Registry Expiry Date: 2021-10-16T04:00:00Z
+Registrar: Authentic Web Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 74660341-CIRA
+Registrant Name: Geoff Worthing
+Registrant Organization: Shared Services Canada
+Registrant Street: 21 Fitzgerald Road
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1A0L5
+Registrant Country: CA
+Registrant Phone: +1.6136978032
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Geoffrey.Worthing@ssc-spc.gc.ca
+Registry Admin ID: 74838842-CIRA
+Admin Name: Geoff Worthing
+Admin Organization: Shared Services Canada
+Admin Street: 21 Fitzgerald Road
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1A0L5
+Admin Country: CA
+Admin Phone: +1.6136978032
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Geoffrey.Worthing@ssc-spc.gc.ca
+Registry Tech ID: 74838843-CIRA
+Tech Name: Michelle Saunders
+Tech Organization: Shared Services Canada
+Tech Street: 21 Fitzgerald Road
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1A0L5
+Tech Country: CA
+Tech Phone: +1.6133010722
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: registry@gc.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: dns1.nrc.ca
+Name Server: dns2.nrc.ca
+Name Server: gocns-kedc.gc.ca
+Name Server: gocns-pdp.gc.ca
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+Name Server: xns-kedc-1.ssc-spc.gc.ca
+Name Server: xns-kedc.ssc-spc.gc.ca
+DNSSEC: unsigned

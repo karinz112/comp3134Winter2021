@@ -1,0 +1,16 @@
+User-Laptop@DESKTOP-8JUSKNO MINGW64 ~/Desktop/cyber security/comp3134Winter2021/wk2 (main)
+$ tracert georgebrown.ca
+
+Tracing route to georgebrown.ca [99.79.139.11]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  router.asus.com [192.168.50.1]
+  2    18 ms    10 ms    15 ms  ip-45-74-123-97.user.start.ca [45.74.123.97]
+  3     7 ms    11 ms    15 ms  dupont.tpia.start.ca [104.153.24.42]
+  4    15 ms    13 ms    14 ms  dupont.tpia.start.ca [104.153.24.41]
+  5    14 ms    17 ms    19 ms  64.140.112.173
+  6    55 ms    73 ms    66 ms  64.140.112.172
+  7     *      120 ms    34 ms  64.140.112.168
+  8   148 ms   151 ms    27 ms  64.140.112.154
+  9    34 ms    20 ms    20 ms  64.140.112.189
+ 10   125 ms   127 ms    48 ms  64.140.112.84

@@ -1,0 +1,13 @@
+User-Laptop@DESKTOP-8JUSKNO MINGW64 ~/Desktop
+$ ping 157.230.68.64
+
+Pinging 157.230.68.64 with 32 bytes of data:
+Reply from 157.230.68.64: bytes=32 time=19ms TTL=53
+Reply from 157.230.68.64: bytes=32 time=18ms TTL=53
+Reply from 157.230.68.64: bytes=32 time=17ms TTL=53
+Reply from 157.230.68.64: bytes=32 time=29ms TTL=53
+
+Ping statistics for 157.230.68.64:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 29ms, Average = 20ms
