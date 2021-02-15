@@ -1,0 +1,13 @@
+05:13:01.831794 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1939760:1939932, ack 1045, win 501, length 172
+05:13:01.831956 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1939932:1940104, ack 1045, win 501, length 172
+05:13:01.832078 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1940104:1940276, ack 1045, win 501, length 172
+05:13:01.832204 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1940276:1940448, ack 1045, win 501, length 172
+05:13:01.832343 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1940448:1940620, ack 1045, win 501, length 172
+05:13:01.832466 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1940620:1940792, ack 1045, win 501, length 172
+05:13:01.832601 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1940792:1940964, ack 1045, win 501, length 172
+05:13:01.832727 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1940964:1941136, ack 1045, win 501, length 172
+05:13:01.832840 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1941136:1941308, ack 1045, win 501, length 172
+05:13:01.832955 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 1941308:1941480, ack 1045, win 501, length 172
+05:13:01.833080 IP ip-45-74-123-101.user.start.ca.65237 > 10.20.0.5.ssh: Flags [P.], seq 1045:1081, ack 1885032, win 509, length 36
+05:13:01.833108 IP ip-45-74-123-101.user.start.ca.65237 > 10.20.0.5.ssh: Flags [.], ack 1885032, win 509, length 0
+05:13:01.833126 IP ip-45-74-123-101.user.start.ca.65237 > 10.20.0.5.ssh: Flags [.], ack 1894664, win 507, length 0

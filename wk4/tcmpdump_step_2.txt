@@ -1,0 +1,11 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~#tcpdump -c 5 -i eth0
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+05:17:13.727296 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 3489779323:3489779431, ack 1245851457, win 501, length 108
+05:17:13.727412 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 108:144, ack 1, win 501, length 36
+05:17:13.727520 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 144:252, ack 1, win 501, length 108
+05:17:13.727600 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 252:288, ack 1, win 501, length 36
+05:17:13.728307 IP 159.89.112.251.51165 > dns.google.domain: 48659+ PTR? 101.123.74.45.in-addr.arpa. (44)
+5 packets captured
+23 packets received by filter
+0 packets dropped by kernel

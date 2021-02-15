@@ -1,0 +1,16 @@
+05:31:35.694873 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2149744:2149916, ack 1189, win 501, length 172
+05:31:35.694961 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2149916:2150088, ack 1189, win 501, length 172
+05:31:35.695048 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2150088:2150260, ack 1189, win 501, length 172
+05:31:35.695134 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2150260:2150432, ack 1189, win 501, length 172
+05:31:35.695225 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2150432:2150604, ack 1189, win 501, length 172
+05:31:35.695319 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2150604:2150776, ack 1189, win 501, length 172
+05:31:35.695408 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2150776:2150948, ack 1189, win 501, length 172
+05:31:35.695494 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2150948:2151120, ack 1189, win 501, length 172
+05:31:35.695583 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2151120:2151292, ack 1189, win 501, length 172
+05:31:35.695672 IP 10.20.0.5.ssh > ip-45-74-123-101.user.start.ca.65237: Flags [P.], seq 2151292:2151464, ack 1189, win 501, length 172
+05:31:35.695712 IP ip-45-74-123-101.user.start.ca.65237 > 10.20.0.5.ssh: Flags [.], ack 2124876, win 9941, length 0
+05:31:35.695745 IP ip-45-74-123-101.user.start.ca.65237 > 10.20.0.5.ssh: Flags [P.], seq 1189:1225, ack 2124876, win 9941, length 36
+^C
+12586 packets captured
+12586 packets received by filter
+0 packets dropped by kernel
