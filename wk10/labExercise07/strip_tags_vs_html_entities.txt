@@ -1,0 +1,1 @@
+Strip_tags will remove the displayed input of the HTML. Thus it will help us to prevent script injection into the form.

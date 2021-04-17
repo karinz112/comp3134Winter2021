@@ -1,0 +1,2 @@
+The browser shows a warning saying it failed to open the file and there is no such directory.
+The attacker can change the path of the root directory and access other parts of the file system.

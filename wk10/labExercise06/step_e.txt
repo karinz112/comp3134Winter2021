@@ -1,0 +1,2 @@
+1)Using basename will stop the user from seeing the files and folders.
+2)Using file_exists() method, should check the file existence and will stop the attacker.

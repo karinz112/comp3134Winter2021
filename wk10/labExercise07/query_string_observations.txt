@@ -1,0 +1,4 @@
+1)When I wrote a word it took me to https://www.dictionary.com/browse/ followed by my word entered.
+2)The website takes me to URL: https://www.dictionary.com/misspelling?term= followed by the invalid word I typed.
+3)The form prevented this script and redirected me to another link with /noresult URL
+4)The website prevented the text I entered and the term cannot be found.

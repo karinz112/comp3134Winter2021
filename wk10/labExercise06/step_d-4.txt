@@ -1,0 +1,1 @@
+All root folder are shown and by that the attacker can use it to get through and hack the website using directory traversal attack.
